@@ -1,16 +1,40 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ShopButton : MonoBehaviour
 {
     [SerializeField] Color highlightColor;
     [SerializeField] Color normalColor;
     [SerializeField] Color activeColor;
+    
 
     bool active = false;
 
     [SerializeField] Defender defenderPrefab;
+
+
+
+    private void Start()
+    {
+        LabelButtonWithCost();
+    }
+
+    private void LabelButtonWithCost()
+    {
+        Text costText = GetComponentInChildren<Text>();
+
+        if(!costText)
+        {
+            Debug.LogError(name + "has no cost text");
+        }
+        else
+        {
+            costText.text = defenderPrefab.GetStartCost().ToString();
+        }
+    }
 
     private void OnMouseEnter()
     {

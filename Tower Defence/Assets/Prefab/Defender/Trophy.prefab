@@ -68,7 +68,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb31f02309d49d9458b0df3b6507049a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startCost: 100
+  startCost: 50
 --- !u!61 &8890021204739414504
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -110,6 +110,8 @@ MonoBehaviour:
   StartingHealth: 100
   particleEffectPrefab: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5,
     type: 3}
+  dethSFXVolume: 0.5
+  deathSound: {fileID: 8300000, guid: a0b8188540bfa364a86b8acea8790632, type: 3}
   health: 0
 --- !u!1 &3579330229991982196
 GameObject:
@@ -339,7 +341,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 4
-  m_Sprite: {fileID: 21300000, guid: ed5ba22c1787c684c810ff547064631f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9e10df9132a9a3e40ac912c16922e0df, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

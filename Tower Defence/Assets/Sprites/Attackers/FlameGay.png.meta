@@ -1,0 +1,1875 @@
+fileFormatVersion: 2
+guid: 42439c96d691a724c8ca1fe928302f2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7668144579599846664
+    second: messy_0
+  - first:
+      213: -277654833151186096
+    second: messy_1
+  - first:
+      213: 3337948120287748366
+    second: messy_2
+  - first:
+      213: 2407206859076716249
+    second: messy_3
+  - first:
+      213: -3932034521436032673
+    second: messy_4
+  - first:
+      213: 3971973608480139859
+    second: messy_5
+  - first:
+      213: 6353019839678384917
+    second: messy_6
+  - first:
+      213: 1201122927455054359
+    second: messy_7
+  - first:
+      213: -3408497112917671335
+    second: messy_8
+  - first:
+      213: 9024564091849755644
+    second: messy_9
+  - first:
+      213: -6586192789743430530
+    second: messy_10
+  - first:
+      213: -2948787643249178668
+    second: messy_11
+  - first:
+      213: 7967710247023225768
+    second: messy_12
+  - first:
+      213: -7433492225296222189
+    second: messy_13
+  - first:
+      213: -1360214987009013291
+    second: messy_14
+  - first:
+      213: -7138221210153211848
+    second: messy_15
+  - first:
+      213: -1389443164584886065
+    second: messy_16
+  - first:
+      213: 6811012717255937176
+    second: messy_17
+  - first:
+      213: -5175213520277400438
+    second: messy_18
+  - first:
+      213: -519731245006496700
+    second: messy_19
+  - first:
+      213: -4243339172607595453
+    second: messy_20
+  - first:
+      213: -6838449254185074819
+    second: messy_21
+  - first:
+      213: -8024661789843046146
+    second: messy_22
+  - first:
+      213: -6194080681099155481
+    second: boom_17
+  - first:
+      213: 871702257982329612
+    second: messy_24
+  - first:
+      213: 3281214222470285158
+    second: messy_25
+  - first:
+      213: 5584329640731930641
+    second: messy_26
+  - first:
+      213: -8874605011189555893
+    second: boom_20
+  - first:
+      213: 4003439055542263537
+    second: boom_16
+  - first:
+      213: -1108984336999315330
+    second: boom_18
+  - first:
+      213: -4843902501565284989
+    second: messy_30
+  - first:
+      213: -4353470719063112461
+    second: boom_19
+  - first:
+      213: -5432242165252466575
+    second: boom_24
+  - first:
+      213: -1777411400306452130
+    second: boom_15
+  - first:
+      213: 8329772223149656352
+    second: messy_34
+  - first:
+      213: -3395036806824457684
+    second: boom_21
+  - first:
+      213: 3970107233312928615
+    second: boom_22
+  - first:
+      213: -3332750781954305440
+    second: boom_23
+  - first:
+      213: -4144225302542873825
+    second: boom_25
+  - first:
+      213: 453679977649015978
+    second: messy_39
+  - first:
+      213: -8086504499011226551
+    second: messy_40
+  - first:
+      213: 5518741723342161208
+    second: messy_41
+  - first:
+      213: 2382826657708765523
+    second: messy_42
+  - first:
+      213: -630484986747707310
+    second: messy_43
+  - first:
+      213: -6948724261556842341
+    second: messy_44
+  - first:
+      213: 8191550688011323424
+    second: messy_45
+  - first:
+      213: 3841345096944585063
+    second: messy_46
+  - first:
+      213: 3910320023906081789
+    second: messy_47
+  - first:
+      213: -6746611671044926490
+    second: messy_48
+  - first:
+      213: 5710906810263284211
+    second: messy_49
+  - first:
+      213: -3723689675960624424
+    second: messy_50
+  - first:
+      213: 3896276942079743099
+    second: messy_51
+  - first:
+      213: -1354102861144988549
+    second: messy_52
+  - first:
+      213: -7651485485692511067
+    second: messy_53
+  - first:
+      213: 6764934276116945703
+    second: messy_54
+  - first:
+      213: 190175987743965780
+    second: messy_55
+  - first:
+      213: -6676319428671175425
+    second: messy_56
+  - first:
+      213: -9010680374039478437
+    second: boom_22
+  - first:
+      213: 7717089299374551938
+    second: messy_58
+  - first:
+      213: 2259920100276346512
+    second: boom_25
+  - first:
+      213: 4235644738470309831
+    second: messy_60
+  - first:
+      213: -5629760977268906259
+    second: boom_21
+  - first:
+      213: 3109404234284687556
+    second: messy_62
+  - first:
+      213: 6954534280207458165
+    second: messy_63
+  - first:
+      213: 8913776757025537635
+    second: boom_24
+  - first:
+      213: -5805978718955120339
+    second: boom_1
+  - first:
+      213: -1039904124882014929
+    second: boom_4
+  - first:
+      213: 499794957593319025
+    second: messy_67
+  - first:
+      213: 3019243335443052556
+    second: messy_68
+  - first:
+      213: 3144472025788373935
+    second: boom_23
+  - first:
+      213: 4719761814223861030
+    second: boom_2
+  - first:
+      213: 2364302883885511169
+    second: messy_71
+  - first:
+      213: -2411028261873575617
+    second: boom_3
+  - first:
+      213: -248232584761912868
+    second: boom_5
+  - first:
+      213: 1124138103081543808
+    second: messy_74
+  - first:
+      213: -8425296768212898870
+    second: messy_75
+  - first:
+      213: -901752875388576356
+    second: boom_6
+  - first:
+      213: -8038180347620902398
+    second: boom_7
+  - first:
+      213: 7268819208287019591
+    second: boom_8
+  - first:
+      213: 785751084931479385
+    second: boom_9
+  - first:
+      213: 4071842786899035734
+    second: messy_80
+  - first:
+      213: 8276020268748334297
+    second: messy_81
+  - first:
+      213: 4414187167054287594
+    second: walk_4
+  - first:
+      213: 6896939632552147245
+    second: messy_83
+  - first:
+      213: -4751355700592536491
+    second: messy_84
+  - first:
+      213: 9110145459860108197
+    second: messy_85
+  - first:
+      213: -8945145104104974981
+    second: walk_1
+  - first:
+      213: 28176652961860936
+    second: walk_2
+  - first:
+      213: -6460353036066989904
+    second: walk_3
+  - first:
+      213: 4244990887089256839
+    second: messy_89
+  - first:
+      213: -8409457659973604508
+    second: walk_5
+  - first:
+      213: -5389351544777385292
+    second: walk_6
+  - first:
+      213: -8995077327767218254
+    second: walk_7
+  - first:
+      213: -779571428948014058
+    second: messy_93
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: messy_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 295
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1d8684bc6d16c4e9a73515936db69e
+      internalID: -7668144579599846664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 295
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e994f9cf079d8140a134eca16de3b8a
+      internalID: -277654833151186096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 295
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e33bc19037d284eaffcf7152f0e0ff
+      internalID: 3337948120287748366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 295
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6f33f1d84063b4aaec2cdb051dd0a8
+      internalID: 2407206859076716249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 295
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8b9688ce1b0af499d13ef9a6e10d4b
+      internalID: -3932034521436032673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 295
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35797bd7670cb8b459500570fd4fb305
+      internalID: 3971973608480139859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 295
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee51354b4f886f4dacaa951c1b3e8dc
+      internalID: 6353019839678384917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 295
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce12e2f8bcfcd4e87e40a482c34ce6
+      internalID: 1201122927455054359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 295
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a6bdc947b02fd46861dccf8ffd2985
+      internalID: -3408497112917671335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 295
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8063836b664b7a24bb1e62e163fe3d7d
+      internalID: 9024564091849755644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 288
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d46c7c5bd9aa047b977cb1d2b0fff0
+      internalID: -6586192789743430530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 295
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f27b913b6616814ea9f02358f924d11
+      internalID: -2948787643249178668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 295
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e6578a21477c944b7b748915ee5e2b
+      internalID: 7967710247023225768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 269
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b60a88791154c4ba16d159dffb0c10
+      internalID: -7433492225296222189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 269
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ef325fbe1ed454f9338bca980a988e
+      internalID: -1360214987009013291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_15
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 309
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc1a05d7746a74b97c061d03dd2e31
+      internalID: -7138221210153211848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_16
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 269
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8312fd557c53854cb50c032249a2b6b
+      internalID: -1389443164584886065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_17
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 310
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73735475af80c64b91d72abdea0600a
+      internalID: 6811012717255937176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_18
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 301
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8172343de95461d449ff8c571b6f6dab
+      internalID: -5175213520277400438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_19
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 269
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4290ecb46c760a24099c3181db88b100
+      internalID: -519731245006496700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_20
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 305
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70358345899f6f94ba0c2eac0ec498d9
+      internalID: -4243339172607595453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 227
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6d124b2526a2243a9d396f245ebde1
+      internalID: -6194080681099155481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 227
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750736fedcade8740b3b717abf63c0c3
+      internalID: -8874605011189555893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 227
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd6c3081530bc4babe956976021a5a
+      internalID: 4003439055542263537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_18
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 227
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3166f09667e6a54fa31cf89f9844756
+      internalID: -1108984336999315330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_30
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac94837005e8954a8db15a582f48eee
+      internalID: -4843902501565284989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_19
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 227
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c25ed82bc07b94aa233f442996d1ba
+      internalID: -4353470719063112461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 227
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97535396ca169524285ff2fe6d3aa411
+      internalID: -5432242165252466575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 227
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a3244239d920e479c08bac81aeeafa
+      internalID: -1777411400306452130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_34
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 252
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19656701653111040825c9275af4042a
+      internalID: 8329772223149656352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 227
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95bdcf03208f704b81ca4c474979405
+      internalID: -3395036806824457684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 227
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af4f37ea319fb346b8f59e29081c73a
+      internalID: 3970107233312928615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 227
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdcd5df0b6bf99409e30c8d95330a9f
+      internalID: -3332750781954305440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 227
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6f9b2b3df505c4bb3ef3f1359331b8
+      internalID: -4144225302542873825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 244
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf4910c7603d3f40a2945e0a6df5114
+      internalID: 453679977649015978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 154
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a92fd45ad97e74b804b418bd4b2a21
+      internalID: -8086504499011226551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 198
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f3dea4d9079e146a8056acc843a34b
+      internalID: 5518741723342161208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 205
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cbc2ff400d0d34dab70a6de796c76a
+      internalID: 2382826657708765523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_43
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 200
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88779df821b64d547b7c8314d1cffde1
+      internalID: -630484986747707310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 154
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c030f5dca5e746bb518c134cdbf7c
+      internalID: -6948724261556842341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 154
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e2a84c36ed478499b8ca152a40c9bc
+      internalID: 8191550688011323424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 154
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b5028d228fda4e8a154bc66b5877a
+      internalID: 3841345096944585063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 192
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ae03a4e2023c240b9e5dc74fcec742
+      internalID: 3910320023906081789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_48
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 154
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898f86c467373e4aaa3b7a28d5b02c9
+      internalID: -6746611671044926490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 154
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea5c1e9be3671409f4015161b4299c
+      internalID: 5710906810263284211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 154
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58a8870b84235f4199b85ee0a75d94c
+      internalID: -3723689675960624424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 187
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a24c699556b7194ca9b738f1437c1f0
+      internalID: 3896276942079743099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 90
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550a7410f530f96478526c6a176135a7
+      internalID: -9010680374039478437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_25
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 90
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71fd9db033dc0f4c9ad44cdb2f9783f
+      internalID: 2259920100276346512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_21
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 90
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02848d62ab3a294c9e926474de2f469
+      internalID: -5629760977268906259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 90
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2afbb9144387de4cbaed8237ea970bd
+      internalID: 8913776757025537635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 91
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb00787435f158348b6ca0363ab85c6c
+      internalID: -5805978718955120339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 90
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210014b30026e25478d9afcb7181636b
+      internalID: -1039904124882014929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_23
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 90
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36438d8b593ac294aaf9a036eb14fe9c
+      internalID: 3144472025788373935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 90
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4be4b23d29bb94889b9e9ccb1b96ca
+      internalID: 4719761814223861030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 90
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d226a7dc8ea5184c89b8df2b7899944
+      internalID: -2411028261873575617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 90
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bd62b75bc96354a8687b270e3a3cb8
+      internalID: -248232584761912868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 90
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc917b583da6c094581e0d23b5b83dd3
+      internalID: -901752875388576356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 90
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027cfff684517184990d4647cebcd9c2
+      internalID: -8038180347620902398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 90
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d53d6fe1a4b9648ba5e8bc16a27880
+      internalID: 7268819208287019591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boom_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 90
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2083b5cb3c370b4185f32c97b1c0501
+      internalID: 785751084931479385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_80
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 114
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbe43d82093a464d87aaaeb4621e6d3
+      internalID: 4071842786899035734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: messy_81
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 110
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3aeeb728f06924e9f0aad974c54a39
+      internalID: 8276020268748334297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c0b4b8a1c3cac439721b9858a2277d
+      internalID: 4414187167054287594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598fad8423af3d342ac67ee0ad70bbd2
+      internalID: -8945145104104974981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 14
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d365088a747916749b240dbacc16b216
+      internalID: 28176652961860936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 14
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f3fa2d2e79cf14ca79a9efad269f99
+      internalID: -6460353036066989904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 14
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093288fbbe380a6439044a594fb96e11
+      internalID: -8409457659973604508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 14
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe7dbba40ae63f418039e4bebe7a00b
+      internalID: -5389351544777385292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 14
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d580e553a65342b4b6fae48ba5d4b
+      internalID: -8995077327767218254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 62accde1c8d6de940bc5c4c1cfa4e5b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

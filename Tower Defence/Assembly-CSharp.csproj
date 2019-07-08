@@ -62,16 +62,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Attacker.cs" />
+    <Compile Include="Assets\Scripts\Attacker\Attacker.cs" />
+    <Compile Include="Assets\Scripts\Attacker\FlameGay.cs" />
+    <Compile Include="Assets\Scripts\Attacker\Gravestone.cs" />
+    <Compile Include="Assets\Scripts\Attacker\SkeletonMage.cs" />
     <Compile Include="Assets\Scripts\AttackerSpawner.cs" />
-    <Compile Include="Assets\Scripts\Butterfly.cs" />
     <Compile Include="Assets\Scripts\DamageCollider.cs" />
     <Compile Include="Assets\Scripts\Defender.cs" />
     <Compile Include="Assets\Scripts\DefenderSpawner.cs" />
-    <Compile Include="Assets\Scripts\Gravestone.cs" />
+    <Compile Include="Assets\Scripts\GameTimer.cs" />
     <Compile Include="Assets\Scripts\Health.cs" />
+    <Compile Include="Assets\Scripts\LevelManager.cs" />
     <Compile Include="Assets\Scripts\Lives.cs" />
-    <Compile Include="Assets\Scripts\Lizard.cs" />
+    <Compile Include="Assets\Scripts\MusicPlayer.cs" />
+    <Compile Include="Assets\Scripts\OptionsControler.cs" />
+    <Compile Include="Assets\Scripts\PlayerPrefsControler.cs" />
     <Compile Include="Assets\Scripts\projectile.cs" />
     <Compile Include="Assets\Scripts\SceneLoader.cs" />
     <Compile Include="Assets\Scripts\Shooter.cs" />

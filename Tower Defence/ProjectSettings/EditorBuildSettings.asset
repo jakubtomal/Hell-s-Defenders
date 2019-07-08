@@ -15,11 +15,23 @@ EditorBuildSettings:
     path: Assets/Scenes/Start Screen.unity
     guid: fbdf8ea6f8761a548bad213121515c68
   - enabled: 1
-    path: Assets/Scenes/Lvl 1.unity
-    guid: 35e33c82bb34de34395f8900f8e39783
+    path: Assets/Scenes/lvl 1.unity
+    guid: 0eb38a376eed83f42bb0c210dd3b7ea4
   - enabled: 1
-    path: Assets/Scenes/Game Over.unity
-    guid: c96f6171d8665bf43a1b0854db76c819
+    path: Assets/Scenes/lvl 2.unity
+    guid: 8a01ea4a8f85aae4a84bbf44c048f0e3
+  - enabled: 1
+    path: Assets/Scenes/lvl 3.unity
+    guid: 1e6d8191cc0cee147b16e99b942c789f
+  - enabled: 1
+    path: Assets/Scenes/lvl 4.unity
+    guid: 89d6c33795cb7104ea3b6cedbacc777a
+  - enabled: 1
+    path: Assets/Scenes/Option Screen.unity
+    guid: e3de1f5968fe21c48907a3ab92a134bd
+  - enabled: 1
+    path: Assets/Scenes/Select Level Screen.unity
+    guid: ab42e3cfcc4393d4eb9586d1dddafec4
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000

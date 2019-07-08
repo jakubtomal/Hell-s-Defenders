@@ -5,12 +5,14 @@ using UnityEngine.UI;
 
 public class Lives : MonoBehaviour
 {
-    [SerializeField] int lives = 5;
+    [SerializeField] float baseLives = 3f;
+    float lives;
     Text livesText;
 
 
     void Start()
     {
+        lives = baseLives - PlayerPrefsControler.GetDifficulty();
         livesText = GetComponent<Text>();
         UpdateDesplay();
     }
@@ -28,10 +30,15 @@ public class Lives : MonoBehaviour
         UpdateDesplay();
         if(lives <= 0)
         {
-            FindObjectOfType<SceneLoader>().LoadStartSceene();
+            FindObjectOfType<LevelManager>().HandleLoseCondition();
         }
 
 
+    }
+
+    public float GetLives()
+    {
+        return lives;
     }
 
 }
